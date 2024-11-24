@@ -1,0 +1,3 @@
+/home/xpolas/banska/algoritmy/aAlg2/du03/cmake-build-debug/CMakeFiles/du03.dir
+/home/xpolas/banska/algoritmy/aAlg2/du03/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xpolas/banska/algoritmy/aAlg2/du03/cmake-build-debug/CMakeFiles/rebuild_cache.dir
